@@ -3,9 +3,8 @@
 _____________________________
 Este proyecto implementa un sistema de verificación de firmas utilizando redes neuronales siamesas y el método de mínimos cuadrados como función de pérdida. El sistema está diseñado para distinguir entre firmas genuinas y falsificadas.
 
-![](https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2017/05/20161031143242_00005-e1495635818490.jpg?resize=1100%2C606&ssl=1)
 
-
+![](https://assets.progressoft.com/products/ps-asv-md.png)
 
 # ⚙️Requerimientos del sistema⚙️
 <span style="font-size: 24px;"></span>
@@ -22,7 +21,6 @@ Para ejecutar el proyecto tiene 2 alternativas:
 1. **Subir el conjunto de datos a su cuenta de Google Drive y configurar la ruta de importación de este en el colab o subir el conjunto de datos al colab.**
 2. **Ejecutarlo en local, pero primero configurando la ruta de importación del conjunto de datos.**
 
-![](https://assets.progressoft.com/products/ps-asv-md.png)
-
+![](https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2017/05/20161031143242_00005-e1495635818490.jpg?resize=1100%2C606&ssl=1)
 
 
