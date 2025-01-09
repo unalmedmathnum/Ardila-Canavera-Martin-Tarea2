@@ -3,6 +3,10 @@
 _____________________________
 Este proyecto implementa un sistema de verificación de firmas utilizando redes neuronales siamesas y el método de mínimos cuadrados como función de pérdida. El sistema está diseñado para distinguir entre firmas genuinas y falsificadas.
 
+![](https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2017/05/20161031143242_00005-e1495635818490.jpg?resize=1100%2C606&ssl=1)
+
+
+
 # ⚙️Requerimientos del sistema⚙️
 <span style="font-size: 24px;"></span>
 _____________________________
