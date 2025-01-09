@@ -7,7 +7,7 @@ Este proyecto implementa un sistema de verificación de firmas utilizando redes 
 ![](https://assets.progressoft.com/products/ps-asv-md.png)
 
 # Tabla de contenidos:
-- [Descripción](#Requerimientos del sistema)
+- [⚙️Requerimientos del sistema⚙️](#⚙️Requerimientos del sistema⚙️)
 - [Pre-requisitos](#Configuración de ejecución)
 
 # ⚙️Requerimientos del sistema⚙️
