@@ -7,9 +7,8 @@ Este proyecto implementa un sistema de verificación de firmas utilizando redes 
 ![](https://assets.progressoft.com/products/ps-asv-md.png)
 
 # Tabla de contenidos:
-- [Proyecto del Método del Polinomio Caracteristico](#proyecto-del-método-del-polinomio-caracterisico)
-  - [Descripción](#⚙️Requerimientos del sistema⚙️)
-  - [Pre-requisitos](#👨‍💻Configuración de ejecución👩‍💻)
+- [Descripción](#⚙️Requerimientos del sistema⚙️)
+- [Pre-requisitos](#👨‍💻Configuración de ejecución👩‍💻)
 
 # ⚙️Requerimientos del sistema⚙️
 <span style="font-size: 24px;"></span>
