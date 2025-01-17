@@ -15,6 +15,25 @@ _____________________________
 * **Descomprimir los archivos de test_data y train_data**
 * **Descomprimir el conjunto de datos que se encuentra en el Release debido al tamaño de este**
 
+A continuación se presenta la lista de módulos necesarios y sus propósitos en este proyecto:
+
+* **numpy**: Para operaciones matemáticas y manipulación eficiente de matrices y vectores.
+* **matplotlib**: Para visualización de datos y creación de animaciones.
+* **pandas**: Para manipulación y análisis de datos estructurados.
+* **scikit-learn**:
+  - **LinearRegression**: Utilizado para tareas auxiliares de regresión.
+  - **train_test_split**, **cross_val_score**: Para la evaluación de modelos.
+  - **r2_score**, **mean_squared_error**: Para medir el desempeño del modelo.
+* **seaborn**: Para generar gráficos estadísticos más elaborados y estilizados.
+* **scipy**: Para realizar pruebas estadísticas y cálculos científicos.
+
+### Instalación de Dependencias
+
+Para instalar las dependencias, puedes usar el siguiente comando:
+
+```bash
+pip install numpy matplotlib pandas scikit-learn seaborn scipy
+
 # 👨‍💻Configuración de ejecución👩‍💻
 <span style="font-size: 24px;"></span>
 _____________________________
