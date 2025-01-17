@@ -31,7 +31,6 @@ A continuación se presenta la lista de módulos necesarios y sus propósitos en
 
 Para instalar las dependencias, puedes usar el siguiente comando:
 
-```bash
 pip install numpy matplotlib pandas scikit-learn seaborn scipy
 
 # 👨‍💻Configuración de ejecución👩‍💻
