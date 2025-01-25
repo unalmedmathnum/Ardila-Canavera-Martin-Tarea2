@@ -1,0 +1,10 @@
+Comentarios 
+- Hay varios participantes en los commits
+- La teoría está bien escrita aunque me parece un poco redundante. Me hubiera gustado centrarnos en Mínimos cuadrados y sus conceptos particulares. 
+- Algunas gráficas en la teoría no son propias, necesitarían una fuente/cita.
+- Los códigos no están comentados, son difíciles de seguir
+- 5 épocas de entrenamiento, es lo necesario/usual para este tipo de modelos? ¿Cuánto es el tiempo de entrenamiento en GPU?
+- Este tipo de problemas usualmente se modelan como problemas de clasificación y no de regresión. ¿Este es un enfoque usual? 
+  
+
+Nota: 5.0
